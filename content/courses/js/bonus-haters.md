@@ -10,6 +10,6 @@ chapter_start: Bonus Round
 free: true
 ---
 
-# Coming Soon...
+# Already released!
 
-JavaScript for the Haters will drop on Thanksgiving, November 24th, 2022.
+https://www.youtube.com/watch?v=aXOChLn5ZdQ
